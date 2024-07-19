@@ -29,11 +29,6 @@ root.render(parent);
 
 
 {
-
-
-
-
-
     /* <div id = "parent"><div id = "child">
             <h1 id = "myHeader1">hey1</h1>
             <h1 id = "myHeader2">hey2</h1>
