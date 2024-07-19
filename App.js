@@ -24,7 +24,7 @@ const parent = React.createElement(
 );
 
 
-root.render(parent);
+root.render("hey");
 
 
 
